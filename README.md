@@ -1,3 +1,3 @@
-# P(1.0)
+# EDA
 Exploratory Data  Analysis -
  Analysis on naukri.com website
